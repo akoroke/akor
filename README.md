@@ -1,3 +1,2 @@
 # akor
-
-[Akoroke](#https://akoroke.com)
+[Akoroke.com](https://akoroke.com) react components
